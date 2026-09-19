@@ -1,0 +1,16 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Cybersecurity Workshop",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Workshop",
+        "pages": [
+          "introduction",
+          "day-1",
+          "day-2"
+        ]
+      }
+    ]
+  }
+}
